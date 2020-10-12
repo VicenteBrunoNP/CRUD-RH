@@ -6,4 +6,10 @@
 
 <hr/>
 
+<h7>Tecnologias</h7>
+<ul>
+    <li>PHP-PDO</li>
+    <li>MySql</li>
+    <li>Materialize</li>
+</ul>
 
