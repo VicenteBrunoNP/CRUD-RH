@@ -1,5 +1,3 @@
-<h1 align="center">CRUD-RH</h1>
-
 <h1 align="center">
     <h1 align="center">CRUD-RH</h1>
 </h1>
