@@ -4,4 +4,6 @@
 
 <p align="center">🚀 Base com funções CRUD, para inicialização de sistemas PHP-PDO e MySQL</p>
 
+<hr/>
+
 
