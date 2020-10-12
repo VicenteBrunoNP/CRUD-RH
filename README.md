@@ -11,5 +11,7 @@
     <li>PHP-PDO</li>
     <li>MySql</li>
     <li>Materialize</li>
+    <li>Javascript</li>
+    <li>JQuery</li>
 </ul>
 
